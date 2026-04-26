@@ -1,9 +1,5 @@
 # Motivational Car Quotes Repository
 
-## Overview
-This project is a Java-based motivational quotes generator inspired by cars, discipline, and success mindset.  
-It demonstrates basic programming logic and Git workflow practices.
-
 ---
 
 ## Features
@@ -34,7 +30,6 @@ https://www.motortrend.com/
 
 ---
 
-## Java Code Example
 
 ```java
 import java.util.Random;
@@ -59,7 +54,6 @@ public class Main {
 
 ---
 
-# STEP 2 — Create a branch on GitHub
 
 1. Go to your repo
 2. Click the dropdown that says `main`
@@ -68,7 +62,6 @@ public class Main {
 
 ---
 
-# STEP 3 — Make a change in the branch (required for grading)
 
 1. Open `README.md`
 2. Click edit
@@ -77,8 +70,6 @@ public class Main {
 4. Click **Commit changes**
 
 ---
-
-# STEP 4 — Merge branch into main
 
 1. Go to **Pull Requests**
 2. Click **New Pull Request**
@@ -91,22 +82,3 @@ public class Main {
 
 ---
 
-# STEP 5 — Submit
-
-Copy your repo link:
-
----
-
-# DONE — What your teacher will see
-
-- Clean README with required formatting
-- Java code block
-- Image
-- Link
-- Branch created
-- Branch merged
-- Commit history present
-
----
-
-If you want, I can also upgrade this into a **perfect A+ version with multiple Java classes and cleaner “software project” structure** that looks more advanced than a typical student submission.
